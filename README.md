@@ -12,13 +12,13 @@ With this module, you can retrieve JSON data regarding the trading pairs created
 ## Installation
 Install using npm:
 ```sh
-npm install uniswapcandles --save
+npm install uniswapdexcandles --save
 ```
 
 ## Usage
 Require library
 ```javascript
-import { getUniswapCandles } from 'uniswapcandles'
+import { getUniswapCandles } from 'uniswapdexcandles'
 ```
 
 ```javascript

@@ -1,5 +1,5 @@
 {
-    "name": "uniswapv2candles",
+    "name": "uniswapdexcandles",
     "version": "0.0.1",
     "type": "module",
     "source": "src/index.js",
